@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\fullstack-course4\\assignments\\assignment5\\assignment5-solution-starter\\css"
+		},
+		{
+			"path": "..\\fullstack-course4\\assignments\\assignment5\\assignment5-solution-starter\\fonts"
+		},
+		{
+			"path": "..\\fullstack-course4\\assignments\\assignment5\\assignment5-solution-starter\\images"
+		},
+		{
+			"path": "..\\fullstack-course4\\assignments\\assignment5\\assignment5-solution-starter\\js"
+		},
+		{
+			"path": "..\\fullstack-course4\\assignments\\assignment5\\assignment5-solution-starter\\snippets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "module-5-solution"
+	}
+}
